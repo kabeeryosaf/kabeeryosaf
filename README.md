@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kabir Yousaf</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hey+there%2C+I+am+Kabeer+%3A))](https://git.io/typing-svg)
 <h3 align="center">A passionate Data Science student from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabeeryosaf&label=Profile%20views&color=0e75b6&style=flat" alt="kabeeryosaf" /> </p>
