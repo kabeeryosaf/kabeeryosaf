@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [www.kabeeryosaf.github.io](www.kabeeryosaf.github.io)
 
-- 💬 Ask me about **C++, DSA, Python etc**
+- 💬 Ask me about **C++, DSA, Python, etc**
 
 - 📫 How to reach me **chkabeer20@gmail.com**
 
