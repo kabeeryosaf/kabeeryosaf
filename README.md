@@ -1,7 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&center=true&random=false&width=714&height=110&lines=Hi+%F0%9F%91%8B%2C+I+am+Kabeer+Yosaf" alt="Typing SVG" /></a>
 
-<h3 align="center">A passionate Data Science student from Pakistan</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabeeryosaf&label=Profile%20views&color=0e75b6&style=flat" alt="kabeeryosaf" /> </p>
 
 - 🌱 I’m currently learning **C++, JS, HTML, CSS3, React, TypeScript, Python, and DSA**
