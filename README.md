@@ -22,4 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kabeeryosaf&show_icons=true&locale=en" alt="kabeeryosaf" /></p>
 
 Following are my certifications:
+
 <a href="https://coursera.org/share/3caee43c200fb50056441046185fef5f">Python for Data Science, AI & Development by IBM</a>
