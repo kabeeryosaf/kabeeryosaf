@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **C++, DSA, Python, etc**
 
-- 📫 How to reach me **chkabeer20@gmail.com**
+- 📫 How to reach me **kabir.automates@gmail.com**
 
 - ⚡ Fun fact **I type really fast (like actual fast) !**
 
